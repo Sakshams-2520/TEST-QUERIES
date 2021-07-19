@@ -1,0 +1,94 @@
+DATABASE AVAILABLE AT ORACLE APEX 
+
+Question 1
+(We will be using the Customer Orders Sample Dataset for this question)
+
+Difficulty level: Low
+
+
+
+What date and time was the last order placed and what was the ORDER ID for this order?
+
+
+
+Question 2
+(We will be using the Customer Orders Sample Dataset for this question)
+
+Difficulty level: Low
+
+
+
+How many records are in the ORDERS table?
+
+
+Question 3
+(We will be using the Customer Orders Sample Dataset for this question)
+
+Difficulty level: Low
+
+
+
+What is the datatype of the STORE_NAME field in the STORES table?
+
+Question 4
+(We will be using the Customer Orders Sample Dataset for this question)
+
+Difficulty level: Medium
+
+
+
+What is the most expensive product?
+
+
+
+Question 5
+(We will be using the Customer Orders Sample Dataset for this question)
+
+Difficulty level: Medium
+
+
+
+Out of all the orders placed how many were completed, refunded and cancelled?
+
+
+Question 6
+(We will be using the Customer Orders Sample Dataset for this question)
+
+Difficulty level: Medium
+
+
+
+What Month has seen the highest number of orders placed to date that have completed? (Hint: use the to_char function)
+
+
+Question 7
+(We will be using the Customer Orders Sample Dataset for this question)
+
+Difficulty level: High
+
+
+
+What is the Store_ID that has sold the highest quantity of items to date across all completed orders?
+
+
+
+
+Question 8
+(We will be using the Customer Orders Sample Dataset for this question)
+
+Difficulty level: High
+
+
+
+Which month and year combination saw the highest sales revenue for completed orders? Hint consider the to_char function)
+
+
+
+Question 9
+(We will be using the Customer Orders Sample Dataset for this question)
+
+Difficulty level: High
+
+
+
+Across all the Orders that have completed, what is the name of the product (use the product_name field) that has sold the most in terms of quantity to date?
